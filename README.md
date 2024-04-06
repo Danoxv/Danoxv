@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/danoxv_/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/Danoxv">
+     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
 
